@@ -6,9 +6,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student in Quantitative and Systems Biology at Northwestern University, working in [Dr. Rosemary Braun's lab](https://sites.northwestern.edu/braunlab/research/).
+I am a master's student in Quantitative and Systems Biology at Northwestern University.
 
-I have received training in both computational methods and molecular experiments. I am interested in identifying causal drivers of cell fate transitions and precisely perturbing them to redirect cells toward desired states.
+I have received training in both computational methods and molecular experiments. My research interest is identifying causal drivers of cell fate transitions and precisely perturbing them to redirect cells toward desired states.
 
 Scroll down to see the display of my projects results.
 
