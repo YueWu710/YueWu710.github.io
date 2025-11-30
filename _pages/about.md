@@ -8,9 +8,9 @@ redirect_from:
 
 I am a master's student in Quantitative and Systems Biology at Northwestern University, working in [Dr. Rosemary Braun's lab](https://sites.northwestern.edu/braunlab/research/).
 
-I have received training in both computational methods and molecular experiments. My current work focuses on using representation learning, gene regulatory network analysis, and control theory to study cell fate decisions from single-cell data. During my undergraduate studies at UC Santa Barbara, I worked in a wet lab on optogenetics and reprogramming-induced rejuvenation.
+I have received training in both computational methods and molecular experiments. I am interested in identifying causal drivers of cell fate transitions and precisely perturbing them to redirect cells toward desired states.
 
-I am interested in identifying causal drivers of cell fate transitions and precisely perturbing them to redirect cells toward desired states.
+Scroll down to see the display of my projects.
 
 
 A data-driven personal website
