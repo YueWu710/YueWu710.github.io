@@ -8,7 +8,7 @@ redirect_from:
 
 I am pursuing a master's degree in Quantitative and Systems Biology at Northwestern University ('26) after completing my B.A. in Biology at UC Santa Barbara (June 2025). I have received training in both computational methods and molecular experiments. 
 
-Scroll down to see the display of my projects results. The page is currently under refinement and expected to finish by Dec 3 CST.
+Scroll down to see the display of my projects results. The page is currently under refinement and expected to finish by end of Dec 2nd.
 
 
 Infer Causal Drivers of Skin Cell Differentiation
@@ -48,19 +48,24 @@ Using RNA velocity Jacobians reconstructed by Dynamo, this project applies iLQR 
 Optogenetic & Cellular Reporter Systems for Reprogramming-induced Rejuvenation
 ======
 Dec 2022 – May 2025
+
 I engineered synthetic gene circuits enabling blue-light-inducible OSK (reprogramming factors) activation using the OptoTet system, developed eight OSK cellular reporters.
+
 Optogenetic Experiments:
+
 <img width="2322" height="1246" alt="image" src="https://github.com/user-attachments/assets/d75b60d4-59bf-432c-a9dc-1fc85d6f367d" />
 <img width="769" height="306" alt="Screenshot 2025-12-02 at 12 18 48 AM" src="https://github.com/user-attachments/assets/66854e71-c0e3-4943-a551-00dfff3edbe7" />
 <img width="853" height="422" alt="Screenshot 2025-12-02 at 12 18 59 AM" src="https://github.com/user-attachments/assets/ec13a141-b469-4ddc-82b0-6751636f22a0" />
 <img width="292" height="205" alt="Screenshot 2025-12-02 at 12 19 10 AM" src="https://github.com/user-attachments/assets/9332fea1-c55f-4959-a433-c6f90157af85" />
 
 Cellular Reporters:
+
 [July's SoCal SysBio Poster.pdf](https://github.com/user-attachments/files/23872743/July.s.SoCal.SysBio.Poster.pdf)
 
 Building ODE Models of Stress-Induced Cellular Fate Decisions
 ======
 May 2025 – Jun 2025
+
 I engineered synthetic gene circuits enabling blue-light-inducible OSK (reprogramming factors) activation using the OptoTet system, developed eight OSK cellular reporters.
 
 
@@ -70,6 +75,7 @@ I engineered synthetic gene circuits enabling blue-light-inducible OSK (reprogra
 Reconstructing 3D Waddington Landscapes from RNA velocity
 ======
 Mar 2024 – Apr 2024
+
 The project applied field-decomposition to turn RNA velocity vector field computed from single cell data into 3D Waddington landscape describing the epigenetic potential for cell fate decisions.
 
 <img width="1186" height="547" alt="Screenshot 2025-12-02 at 12 24 07 AM" src="https://github.com/user-attachments/assets/cfc6dc61-1213-4577-ba53-da91604d7499" />
