@@ -16,11 +16,16 @@ Scroll down to see the display of my projects results.
 Infer Causal Drivers of Skin Cell Differentiation
 ======
 June 2025 to present
+
 The project integrates variational autoencoder (VAE)-based latent trajectory analysis and Geneformer (a transformer-based algorithm) for single-cell data, and performs in silico perturbations to construct a causal core gene regulatory network that controls human skin cell differentiation.
+
+<img width="1352" height="771" alt="Screenshot 2025-12-01 at 7 45 19 PM" src="https://github.com/user-attachments/assets/e1e931f8-e141-4e60-91ef-3425df8b0277" />
+
 
 Apply Control Theory to Redirect Cell Fate Transition 
 ======
 Aug 2025 to present (remote)
+
 Using RNA velocity Jacobians reconstructed by Dynamo, this project applies iLQR (an iterative optimal-control algorithm) to a system where genes serve as control channels, yielding minimal perturbation schedules that steer cells from one fate to another.
 
 Optogenetic & Cellular Reporter Systems for Reprogramming-induced Rejuvenation
