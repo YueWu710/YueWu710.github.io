@@ -6,11 +6,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student in Quantitative and Systems Biology at Northwestern University.
+I am pursuing a master's degree in Quantitative and Systems Biology at Northwestern University ('26) after completing my B.A. in Biology at UC Santa Barbara (June 2025). I have received training in both computational methods and molecular experiments. 
 
-I have received training in both computational methods and molecular experiments. My research interest is identifying causal drivers of cell fate transitions and precisely perturbing them to redirect cells toward desired states.
-
-Scroll down to see the display of my projects results.
+Scroll down to see the display of my projects results. The page is currently under refinement and expected to finish by Dec 3 CST.
 
 
 Infer Causal Drivers of Skin Cell Differentiation
@@ -21,6 +19,13 @@ The project integrates variational autoencoder (VAE)-based latent trajectory ana
 
 <img width="1352" height="771" alt="Screenshot 2025-12-01 at 7 45 19 PM" src="https://github.com/user-attachments/assets/e1e931f8-e141-4e60-91ef-3425df8b0277" />
 
+<img width="2560" height="904" alt="image" src="https://github.com/user-attachments/assets/a1c43d1c-9953-4eac-bb59-b48be9f7674b" />
+
+<img width="1321" height="718" alt="Screenshot 2025-12-02 at 12 10 07 AM" src="https://github.com/user-attachments/assets/80afb57c-8811-4c5b-bbc9-45ee6eb0192f" />
+
+<img width="1272" height="375" alt="Screenshot 2025-12-02 at 12 07 19 AM" src="https://github.com/user-attachments/assets/b71185bb-0ed5-4026-bbe6-83565ca8adb7" />
+
+<img width="1352" height="878" alt="Screenshot 2025-12-02 at 12 15 47 AM" src="https://github.com/user-attachments/assets/a1fd6bd0-3ca4-48e5-b04b-6782d5900158" />
 
 Apply Control Theory to Redirect Cell Fate Transition 
 ======
@@ -28,40 +33,45 @@ Aug 2025 to present (remote)
 
 Using RNA velocity Jacobians reconstructed by Dynamo, this project applies iLQR (an iterative optimal-control algorithm) to a system where genes serve as control channels, yielding minimal perturbation schedules that steer cells from one fate to another.
 
+<img width="924" height="605" alt="gjhkhj" src="https://github.com/user-attachments/assets/c82a2b7e-7545-4574-b058-b469c059d259" />
+<img width="2195" height="460" alt="chjkghj" src="https://github.com/user-attachments/assets/1b1c81c2-a383-4069-b4ef-5e000f5acebf" />
+
+2 Genes Control: 
+<img width="791" height="565" alt="chbjhjh" src="https://github.com/user-attachments/assets/61db18aa-873d-4ba3-9d06-39df3a2848e8" />
+<img width="2179" height="460" alt="hgjkhg" src="https://github.com/user-attachments/assets/51b9e588-7ead-46b4-8e85-b7bd8733c169" />
+
+1 Gene Control:
+<img width="924" height="605" alt="dhgjaskk" src="https://github.com/user-attachments/assets/1e12e229-5322-4d9c-b37d-0e6ce6dddeb3" />
+<img width="2174" height="372" alt="sadjhkl" src="https://github.com/user-attachments/assets/66c8c8b6-7ee1-400c-bcd9-ffcff604b392" />
+
+
 Optogenetic & Cellular Reporter Systems for Reprogramming-induced Rejuvenation
 ======
-Aug 2025 to present (remote)
+Dec 2022 – May 2025
+I engineered synthetic gene circuits enabling blue-light-inducible OSK (reprogramming factors) activation using the OptoTet system, developed eight OSK cellular reporters.
+Optogenetic Experiments:
+<img width="2322" height="1246" alt="image" src="https://github.com/user-attachments/assets/d75b60d4-59bf-432c-a9dc-1fc85d6f367d" />
+<img width="769" height="306" alt="Screenshot 2025-12-02 at 12 18 48 AM" src="https://github.com/user-attachments/assets/66854e71-c0e3-4943-a551-00dfff3edbe7" />
+<img width="853" height="422" alt="Screenshot 2025-12-02 at 12 18 59 AM" src="https://github.com/user-attachments/assets/ec13a141-b469-4ddc-82b0-6751636f22a0" />
+<img width="292" height="205" alt="Screenshot 2025-12-02 at 12 19 10 AM" src="https://github.com/user-attachments/assets/9332fea1-c55f-4959-a433-c6f90157af85" />
+
+Cellular Reporters:
+[July's SoCal SysBio Poster.pdf](https://github.com/user-attachments/files/23872743/July.s.SoCal.SysBio.Poster.pdf)
+
+Building ODE Models of Stress-Induced Cellular Fate Decisions
+======
+May 2025 – Jun 2025
 I engineered synthetic gene circuits enabling blue-light-inducible OSK (reprogramming factors) activation using the OptoTet system, developed eight OSK cellular reporters.
 
-Getting started
+
+<img width="1314" height="1344" alt="image" src="https://github.com/user-attachments/assets/69e001b1-6e10-485a-9135-5412361b7ad7" />
+<img width="1824" height="558" alt="image" src="https://github.com/user-attachments/assets/f96033f0-2e4a-4ebd-a6fa-a3aea728d143" />
+
+Reconstructing 3D Waddington Landscapes from RNA velocity
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Mar 2024 – Apr 2024
+The project applied field-decomposition to turn RNA velocity vector field computed from single cell data into 3D Waddington landscape describing the epigenetic potential for cell fate decisions.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<img width="1186" height="547" alt="Screenshot 2025-12-02 at 12 24 07 AM" src="https://github.com/user-attachments/assets/cfc6dc61-1213-4577-ba53-da91604d7499" />
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
