@@ -1,0 +1,25 @@
+{% capture tocWorkspace %}
+  {% capture toc %}{% endcapture %}
+  {% assign minHeader = include.h_min | default: 1 %}
+  {% assign maxHeader = include.h_max | default: 6 %}
+  {% assign nodes = include.html | split: '<h' %}
+  {% for node in nodes %}
+    {% if node == "" %}{% continue %}{% endif %}
+    {% assign headerLevel = node | slice: 0, 1 %}
+    {% assign headerLevelInt = headerLevel | plus: 0 %}
+    {% if headerLevelInt < minHeader or headerLevelInt > maxHeader %}{% continue %}{% endif %}
+    {% if node contains 'id="' %}
+      {% assign idStart = node | split: 'id="' %}
+      {% assign idEnd = idStart[1] | split: '"' %}
+      {% assign id = idEnd[0] %}
+      {% assign textStart = node | split: '>' %}
+      {% assign textEnd = textStart[1] | split: '</h' %}
+      {% assign text = textEnd[0] | strip_html | strip %}
+      {% capture toc %}{{ toc }}
+<li><a href="#{{ id }}">{{ text }}</a></li>{% endcapture %}
+    {% endif %}
+  {% endfor %}
+{% endcapture %}
+<ul class="toc__menu">
+  {{ toc }}
+</ul>
