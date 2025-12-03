@@ -30,6 +30,26 @@ layout: default
             <h4 style="margin-bottom: 0.5em;">Contents</h4>
             {% include toc.html html=content h_min=2 h_max=3 %}
           </nav>
+          <style>
+            .toc a {
+              color: #999;
+              text-decoration: none;
+              display: block;
+              padding: 0.25em 0;
+              transition: color 0.2s;
+            }
+            .toc a:hover {
+              color: #000;
+            }
+            .toc ul {
+              list-style: none;
+              padding-left: 0;
+              margin: 0;
+            }
+            .toc li {
+              margin-bottom: 0.3em;
+            }
+          </style>
         </aside>
       {% endif %}
       {% unless page.header.overlay_color or page.header.overlay_image %}
