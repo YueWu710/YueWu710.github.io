@@ -78,8 +78,6 @@ Dec 2022 – May 2025
 
 I engineered synthetic gene circuits enabling blue-light-inducible OSK (epigenetic reprogramming factors used to induce epigenetic rejuvenation) activation using the OptoTet system (See PMID 30304687).
 
-Optogenetic Experiments:
-
 <img width="2322" height="1246" alt="image" src="https://github.com/user-attachments/assets/d75b60d4-59bf-432c-a9dc-1fc85d6f367d" />
 
 The system also has a non-optogenetic, Dox-inducible version. Upon induction, OSK along with mCherry is expressed. See the IF staining below.
