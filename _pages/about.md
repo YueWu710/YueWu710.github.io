@@ -8,7 +8,7 @@ redirect_from:
 
 I am currently a master student in Quantitative and Systems Biology at Northwestern University (class of '26) after completing my B.A. in Biology at UC Santa Barbara (June 2025). I have received training in both computational methods and molecular experiments. 
 
-Scroll down to see selected results from my projects.
+This page is a concise visual supplement displaying selected results from my research projects.
 
 
 Infer Causal Drivers of Skin Cell Differentiation
