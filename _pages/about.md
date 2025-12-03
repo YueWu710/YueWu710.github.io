@@ -1,6 +1,8 @@
 ---
 permalink: /
 author_profile: true
+toc: true
+toc_sticky: true
 redirect_from: 
   - /about/
   - /about.html
@@ -11,8 +13,8 @@ I am currently a master student in Quantitative and Systems Biology at Northwest
 **This page is a concise visual supplement displaying selected results from my research projects.**
 
 
-Infer Causal Drivers of Skin Cell Differentiation
-======
+## Infer Causal Drivers of Skin Cell Differentiation
+
 June 2025 to present
 
 The project integrates variational autoencoder (VAE)-based latent trajectory analysis and Geneformer (a transformer-based algorithm) for single-cell data, and performs in silico perturbations to construct a causal core gene regulatory network that controls human skin cell differentiation.
@@ -30,8 +32,8 @@ The UMAP demonstrates using VAE to cluster genes by function in an unsupervised 
 <img width="1313" height="751" alt="Screenshot 2025-12-02 at 12 15 47 AM" src="https://github.com/user-attachments/assets/8e9f76b4-eb4b-424e-abcf-db9b36ae601b" />
 
 
-Apply Control Theory to Redirect Cell Fate Transition 
-======
+## Apply Control Theory to Redirect Cell Fate Transition 
+
 Aug 2025 to present (remote)
 
 Using RNA velocity Jacobians reconstructed by Dynamo (PMID 35108499), this project applies iLQR (an iterative optimal-control algorithm) to a system where genes serve as control channels, yielding minimal perturbation schedules that steer cells from one fate to another.
@@ -69,8 +71,8 @@ $$ J = Σ_k [x_k^T Q_k x_k + u_k^T R_k u_k] + x_K^T Q_f x_K $$
 - Q_f: Distance to terminal cost matrix
 
 
-Optogenetic & Cellular Reporter Systems for Reprogramming-induced Rejuvenation
-======
+## Optogenetic & Cellular Reporter Systems for Reprogramming-induced Rejuvenation
+
 Dec 2022 – May 2025
 
 I engineered synthetic gene circuits enabling blue-light-inducible OSK (epigenetic reprogramming factors used to induce epigenetic rejuvenation) activation using the OptoTet system (See PMID 30304687).
@@ -98,8 +100,8 @@ I also assisted with other projects in the lab. For example, I reengineered a st
 <img width="567" height="341" alt="image" src="https://github.com/user-attachments/assets/df5c4ba5-47c4-4142-96b8-93c1f7456a67" />
 
 
-Building ODE Models of Stress-Induced Cellular Fate Decisions
-======
+## Building ODE Models of Stress-Induced Cellular Fate Decisions
+
 May 2025 – Jun 2025
 
 I applied the GeneSurrounder algorithm (PMID 31060502) to fibroblast transcriptomes to identify integrated stress response regulators as candidate senescence drivers, then built a minimal ODE model linking stress intensity and duration to hormesis, senescence and apoptosis outcomes.
@@ -128,8 +130,8 @@ Below is a 3D cube of cell fate. X-axis: stress duration; Y-axis: time after str
 <img width="1314" height="1344" alt="image" src="https://github.com/user-attachments/assets/69e001b1-6e10-485a-9135-5412361b7ad7" />
 
 
-Reconstructing 3D Waddington Landscapes from RNA velocity
-======
+## Reconstructing 3D Waddington Landscapes from RNA velocity
+
 Mar 2024 – Apr 2024
 
 The project applied field-decomposition to turn RNA velocity vector field computed from published single cell datasets (PMID 36229609) into 3D Waddington landscape describing the epigenetic potential for cell fate decisions.
