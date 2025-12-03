@@ -19,7 +19,7 @@ The project integrates variational autoencoder (VAE)-based latent trajectory ana
 
 <img width="1352" height="771" alt="Screenshot 2025-12-01 at 7 45 19 PM" src="https://github.com/user-attachments/assets/e1e931f8-e141-4e60-91ef-3425df8b0277" />
 
-Below is a diagram of the VAE architecture, along with the current results of applying it to identify driver genes for the undifferentiated-to-differentiated transition.
+Below is a diagram of the VAE architecture, along with the current results of applying it to identify driver genes for the undifferentiated-to-differentiated transition. The graph below shows the change in gene expression along this latent-space trajectory.
 
 <img width="2560" height="904" alt="image" src="https://github.com/user-attachments/assets/a1c43d1c-9953-4eac-bb59-b48be9f7674b" />
 <img width="1321" height="718" alt="Screenshot 2025-12-02 at 12 10 07 AM" src="https://github.com/user-attachments/assets/80afb57c-8811-4c5b-bbc9-45ee6eb0192f" />
@@ -67,6 +67,7 @@ $$ J = Σ_k [x_k^T Q_k x_k + u_k^T R_k u_k] + x_K^T Q_f x_K $$
 - Q_k: State deviation cost matrix
 - R_k: Control strength cost matrix
 - Q_f: Distance to terminal cost matrix
+
 
 Optogenetic & Cellular Reporter Systems for Reprogramming-induced Rejuvenation
 ======
