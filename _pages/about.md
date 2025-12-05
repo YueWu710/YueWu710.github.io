@@ -66,7 +66,7 @@ From Erythoid lineage to Megakaryocyte by inhibiting ALAS2 (key TF for Ery, see 
 <img width="791" height="565" alt="chbjhjh" src="https://github.com/user-attachments/assets/61db18aa-873d-4ba3-9d06-39df3a2848e8" />
 <img width="2179" height="460" alt="hgjkhg" src="https://github.com/user-attachments/assets/51b9e588-7ead-46b4-8e85-b7bd8733c169" />
 
-and control with 1 genes. It also arrived but the controll path deviates more from the reference path.
+and control with 1 genes. It also arrived but the controll path deviates more from the reference path than its 2-genes pair.
 
 <img width="924" height="605" alt="dhgjaskk" src="https://github.com/user-attachments/assets/1e12e229-5322-4d9c-b37d-0e6ce6dddeb3" />
 <img width="2174" height="372" alt="sadjhkl" src="https://github.com/user-attachments/assets/66c8c8b6-7ee1-400c-bcd9-ffcff604b392" />
@@ -83,7 +83,7 @@ I engineered synthetic gene circuits enabling blue-light-inducible OSK (epigenet
 The system also has a non-optogenetic, Dox-inducible version. Upon induction, OSK along with mCherry is expressed. See the IF staining below.
 <img width="686" height="332" alt="Screenshot 2025-12-02 at 9 12 20 PM" src="https://github.com/user-attachments/assets/26e5f6f4-ce0d-4846-aca6-cc49d08cc6df" />
 
-Below are the LED illumination scheme, the corresponding mCherry-channel image, and its quantification. 15 minutes of blue light yields a 3.25-fold fluorescence response; extended 12-hour activation yields 11.6-fold induction.
+Below are the LED illumination scheme, the corresponding mCherry-channel image, and its quantification.
 
 <img width="769" height="306" alt="Screenshot 2025-12-02 at 12 18 48 AM" src="https://github.com/user-attachments/assets/66854e71-c0e3-4943-a551-00dfff3edbe7" />
 <img width="853" height="422" alt="Screenshot 2025-12-02 at 12 18 59 AM" src="https://github.com/user-attachments/assets/ec13a141-b469-4ddc-82b0-6751636f22a0" />
@@ -137,4 +137,4 @@ The project applied field-decomposition to turn RNA velocity vector field comput
 
 <img width="1186" height="547" alt="Screenshot 2025-12-02 at 12 24 07 AM" src="https://github.com/user-attachments/assets/cfc6dc61-1213-4577-ba53-da91604d7499" />
 
-The 3D landscape resolves the bifurcation in which cells flow down the potential toward either the erythroid branch or the megakaryocytic-progenitor branch.
+The 3D landscape reflects the classic bifurcation in which cells flow down the potential hills from HSC toward either the erythroid branch or the megakaryocytic-progenitor branch.
