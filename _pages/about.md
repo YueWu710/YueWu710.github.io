@@ -26,7 +26,8 @@ Below is a diagram of the VAE architecture, along with the current results of ap
 
 <img width="2560" height="904" alt="image" src="https://github.com/user-attachments/assets/a1c43d1c-9953-4eac-bb59-b48be9f7674b" />
 <img width="1321" height="718" alt="Screenshot 2025-12-02 at 12 10 07 AM" src="https://github.com/user-attachments/assets/80afb57c-8811-4c5b-bbc9-45ee6eb0192f" />
-<img width="1272" height="375" alt="Screenshot 2025-12-02 at 12 07 19 AM" src="https://github.com/user-attachments/assets/b71185bb-0ed5-4026-bbe6-83565ca8adb7" />
+<img width="780" height="476" alt="Screenshot 2025-12-04 at 8 01 24 PM" src="https://github.com/user-attachments/assets/27b05498-fe07-44ad-b6f1-bedaf28060e4" />
+
 
 The UMAP demonstrates using VAE to cluster genes by function in an unsupervised manner.
 
